@@ -28,7 +28,7 @@ export SKIAZIP=https://github.com/aseprite/skia/releases/download/m102-861e4743a
 
 #UNCOMMENT ABOVE IF YOU PLAN ON TARGETING INTEL BASED MACS
 
-export ARCH=arm64
+export ARCH=intel
 
 #export ARCH=intel
 
