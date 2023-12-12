@@ -6,6 +6,11 @@ emulate -LR zsh
 # DOUBLE CHECK TO MAKE SURE IT HAS NOT BEEN MALICIOUSLY EDITED.
 # THE AUTHOR CLAIMS NO LIABILITY NO WARRANTY FOR THIS SCRIPT
 # USE AT YOUR OWN RISK.
+# Install ninja compiler
+brew install ninja
+
+# Install CMake for makefile
+brew install cmake
 
 # Paths
 
